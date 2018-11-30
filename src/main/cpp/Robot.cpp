@@ -19,7 +19,7 @@ void Robot::RobotInit() {
     frc::SmartDashboard::PutData("Auto Modes", &m_chooser);
 
 	//******** INIT *************************************
-    std::cout<<"RobotInit"<<std::endl;
+    std::cout<<"HelloWorld"<<std::endl;
 	std::cout<<"PracticeBot2018"<<std::endl;
 
 
